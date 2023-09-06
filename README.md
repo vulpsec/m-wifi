@@ -3,7 +3,8 @@
 Pc'nizdeki bütün kayıtlı wifi şifrelerini göstermek için bir tool (Windows için oluşturuldu).
 
 ## İndirme 
-
+windows'a gir indirmek için: https://git-scm.com/download/win
+Sonrasında CMD'den:
 ```bash
 git clone 'https://github.com/morbius-os/wifi-gösterici
 
